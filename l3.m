@@ -1,4 +1,3 @@
-%Лабораторная работа №3. Вариант №11.
 n = 500;
 R = 5;
 hr = R/n;
@@ -69,4 +68,3 @@ title("График амплитуды F(p) вихревое");
 figure(8);
 imagesc(arg(Fp_vih)), colorbar, colormap gray;
 title("График фазы F(p) вихревое");
-
